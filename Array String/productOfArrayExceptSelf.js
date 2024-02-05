@@ -22,3 +22,8 @@ var productExceptSelf = function(nums) {
 
     return answer
 };
+
+const nums = [2, 4, 4, 5, 6, 7, 2, 8]
+
+const result =  productExceptSelf(nums)
+console.log(result);
