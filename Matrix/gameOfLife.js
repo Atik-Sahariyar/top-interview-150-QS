@@ -43,6 +43,5 @@ var gameOfLife = function(board) {
         }
     }
 
-
  
 };
